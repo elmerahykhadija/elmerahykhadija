@@ -130,8 +130,8 @@ Les utilisateurs peuvent **filtrer les offres** selon le budget, la catégorie e
 | **Frontend** | Streamlit |
 | **Environnement** | WSL Ubuntu |
 | **Conteneurisation** | Docker |
-![streaming](./images/streaming.png)
 
+![streaming](./images/streaming.png)
 ## 🎓 Formation & Certifications
 
 ### Éducation
