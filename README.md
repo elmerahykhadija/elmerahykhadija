@@ -34,6 +34,7 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
 ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge\&logo=prefect\&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-5A2CA0?style=for-the-badge\&logo=great-expectations\&logoColor=white)
 
 ---
 
@@ -44,6 +45,7 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
 
 ---
 
@@ -61,7 +63,6 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-5A2CA0?style=for-the-badge\&logo=great-expectations\&logoColor=white)
 ![Evidently AI](https://img.shields.io/badge/Evidently%20AI-6C63FF?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge)
