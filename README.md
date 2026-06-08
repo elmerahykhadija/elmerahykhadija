@@ -8,7 +8,7 @@ Bienvenue dans mon portfolio ! Découvrez mes projets, compétences et réalisat
 
 ### Qui suis-je ?
 
-Je suis **Khadija El Merahy**, étudiant en 4e année d'Ingénierie à **l'ENSA Berrechid**, spécialisé en **Systèmes d'Information et Big Data**. 
+Je suis **Khadija El Merahy**, étudiant en 4e année d'Ingénierie à **l'ENSA Berrechid**, spécialisé en **Systèmes d'Information et Big Data**.
 
 Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'aime concevoir et déployer des **pipelines de données scalables** et des **systèmes de production robustes**.
 
@@ -21,304 +21,128 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 
 ---
 
+## 💼 Services
 
-
-# 🛠️ Technical Skills
-
-## 📈 Data Engineering
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge\&logo=prefect\&logoColor=white)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-5A2CA0?style=for-the-badge\&logo=great-expectations\&logoColor=white)
+| Service | Description |
+|---|---|
+| 🧹 **Préparation des données** | Nettoyage, validation, transformation et enrichissement de données brutes |
+| 🔄 **Pipelines ETL / ELT** | Conception et déploiement de pipelines scalables de bout en bout |
+| ⚙️ **Automatisation des workflows** | Orchestration et scheduling de tâches avec Airflow, Prefect |
+| 🤖 **Intégration de solutions IA** | Intégration de LLMs, agents IA et modèles ML dans des systèmes existants |
+| 📊 **Business Intelligence & Modélisation** | Modélisation dimensionnelle, dashboards Power BI, Star Schema |
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🛠️ Technical Skills
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+### 📈 Data Engineering
 
-
----
-
-## 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-5A2CA0?style=for-the-badge)
 
 ---
 
-## 🤖 AI & Machine Learning
+### ☁️ Cloud & Infrastructure
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🗄️ Bases de Données
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-D22128?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+### 🤖 AI & Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Evidently AI](https://img.shields.io/badge/Evidently%20AI-6C63FF?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge)
 
 ---
 
-## 📊 Business Intelligence
+### 📊 Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge)
 
+---
 
 # 🚀 Mes Projets
 
-# 1️⃣ 🎟️ End-to-End ELT Pipeline – Ticketmaster
+## 1️⃣ 🎟️ End-to-End ELT Pipeline – Ticketmaster
 
-## 📌 Vue d’ensemble
+**Contexte & Problème** : Collecter et centraliser des données d'événements mondiaux (2026–2027) depuis l'API Ticketmaster pour en extraire de la valeur analytique.
 
-Pipeline ELT scalable end-to-end qui collecte et traite les données d’événements mondiaux provenant de la **Ticketmaster Discovery API** pour les années 2026–2027.
+**Architecture** : Python → Apache Kafka → Snowflake (RAW) → dbt (Star Schema), orchestré par Airflow et déployé sur AWS EC2 via Docker.
 
-Architecture moderne combinant :
-
-* orchestration avec **Apache Airflow**,
-* ingestion temps réel avec **Apache Kafka**,
-* stockage dans **Snowflake**,
-* transformations analytiques avec **dbt**.
-
----
-
-## 🏗️ Architecture Technique
-
-### Flux de données
-
-1. **Extraction** → Scripts Python collectent les données JSON depuis l’API Ticketmaster
-2. **Streaming** → Apache Kafka assure le découplage entre producteurs et consommateurs
-3. **Loading** → Kafka Consumer charge les données brutes dans Snowflake (`EVENTS_RAW`)
-4. **Transformation** → dbt nettoie, transforme et modélise les données en Star Schema
-
----
-
-## 🛠️ Stack Technologique
-
-| Composant           | Technologie                |
-| ------------------- | -------------------------- |
-| Langage             | Python 3.12                |
-| Orchestration       | Apache Airflow             |
-| Message Broker      | Apache Kafka               |
-| Data Warehouse      | Snowflake                  |
-| Transformations     | dbt                        |
-| Containerisation    | Docker & Docker Compose    |
-| Cloud / Déploiement | AWS EC2                    |
-| CI/CD               | GitHub Actions             |
-| Source de données   | Ticketmaster Discovery API |
-
----
-
-## 🖼️ Architecture
+**Résultats** : Pipeline ELT scalable et automatisé, données prêtes pour l'analyse en entrepôt.
 
 ![Ticketmaster ELT Pipeline](./images/elt.png)
 
 ---
 
-# 2️⃣ 🧠 Production-Ready MLOps Pipeline – HR Attrition Analytics
+## 2️⃣ 🧠 Production-Ready MLOps Pipeline – HR Attrition Analytics
 
-## 📌 Contexte
+**Contexte & Problème** : Le turnover des employés impacte la productivité et les coûts. L'objectif est de passer d'une RH réactive à une stratégie proactive basée sur les données.
 
-Le turnover des employés représente un enjeu majeur pour les entreprises.
-Perdre des talents impacte directement :
+**Architecture** : CSV → Snowflake → dbt (GOLD) → Great Expectations → Evidently AI (drift) → Scikit-learn + MLflow → Dashboard Dash.
 
-* la productivité,
-* les coûts de recrutement,
-* et la stabilité des équipes.
+**Résultats** : Prédiction des employés à risque, retraining automatique, dashboard de simulation RH interactif.
 
-L’objectif de ce projet est de passer d’une approche RH réactive → à une stratégie proactive basée sur les données.
-
----
-
-## 🎯 Objectifs du Projet
-
-Développement d’un pipeline MLOps complet permettant de :
-
-* prédire les employés à risque de départ,
-* automatiser le cycle de vie du Machine Learning,
-* garantir la qualité des données,
-* surveiller le data drift,
-* simuler des stratégies RH grâce à des scénarios “what-if”.
-
----
-
-## 📊 Dataset Utilisé
-
-### IBM HR Analytics Attrition Dataset
-
-* ~1400 employés
-* Variables RH : satisfaction, revenu, overtime, déplacements, rôle, ancienneté, etc.
-
-Source :
-https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
----
-
-## ⚙️ Architecture MLOps
 ![MLOPS](./images/mlops.png)
-### 1️⃣ Data Ingestion
-
-* Chargement CSV → Snowflake RAW layer
-* Validation et nettoyage initial des données
-
-### 2️⃣ Data Transformation
-
-* Pipeline dbt (approche ELT)
-* Feature engineering
-* Encodage et création des features analytiques
-* Construction de la couche GOLD pour le ML
-
-### 3️⃣ Data Quality
-
-Mise en place de contrôles avec **Great Expectations** :
-
-* valeurs manquantes,
-* validation du schéma,
-* contraintes métier,
-* cohérence des variables encodées.
-
-### 4️⃣ Data Drift Monitoring
-
-Surveillance continue avec **Evidently AI** :
-
-* comparaison entre données de référence et données courantes,
-* détection des changements de distribution,
-* déclenchement du retraining uniquement lorsque nécessaire.
-
-### 5️⃣ ML Training & Registry
-
-* Modèle : RandomForestClassifier
-* Hyperparameter tuning avec GridSearchCV
-* Optimisation du F1-score
-* Tracking & Registry avec MLflow
-* Promotion automatique du meilleur modèle
-
-### 6️⃣ Orchestration
-
-Automatisation complète avec **Prefect** :
-
-* scheduling quotidien,
-* retry logic,
-* monitoring du pipeline.
 
 ---
 
-## 🔄 Data Flow
+## 3️⃣ 🛒 E-Commerce Data ETL Pipeline
 
-```txt
-CSV Data
-   ↓
-Snowflake RAW
-   ↓
-dbt Transformations (GOLD)
-   ↓
-Great Expectations
-   ↓
-Evidently AI Drift Detection
-   ↓
-ML Training (Scikit-learn + MLflow)
-   ↓
-Model Registry
-   ↓
-Dash Dashboard (HR Simulation)
-```
+**Contexte & Problème** : Transformer 100k+ commandes brutes en datasets analytiques fiables et exploitables.
 
----
+**Architecture** : Python + Apache Spark (traitement distribué) → AWS S3 (Data Lake) → Snowflake, architecture Medallion Bronze / Silver / Gold, orchestrée par Airflow.
 
-## 📈 Résultats
-
-* Pipeline ML entièrement automatisé
-* Architecture orientée production
-* Validation robuste des données
-* Stratégie intelligente de retraining
-* Dashboard RH interactif pour la simulation d’attrition
-* Recommandations de rétention basées sur les données
-
----
-
-## 💡 Ce que j’ai appris
-
-* Conception d’architectures MLOps réelles
-* Construction de pipelines ETL/ELT scalables
-* Importance de la qualité des données en ML
-* Monitoring et gestion du data drift
-* Industrialisation des modèles ML
-* Intégration du Data Engineering avec l’impact métier
-
----
-
-# 3️⃣ 🛒 E-Commerce Data ETL Pipeline
-
-## 📌 Objectif
-
-Transformer des données transactionnelles e-commerce brutes (100k+ commandes) en datasets analytiques optimisés selon une architecture **Medallion (Bronze / Silver / Gold)**.
-
----
-
-## 🛠️ Technologies & Rôles
-
-| Technologie    | Rôle                       |
-| -------------- | -------------------------- |
-| Python         | Développement des jobs ETL |
-| Apache Spark   | Traitement distribué       |
-| Apache Airflow | Orchestration              |
-| AWS S3         | Data Lake                  |
-| Snowflake      | Data Warehouse             |
-| Docker         | Containerisation           |
-
----
-
-## 🖼️ Architecture
+**Résultats** : Données nettoyées et modélisées, prêtes pour la BI et le reporting.
 
 ![E-Commerce ETL Medallion](./images/etl.png)
 
 ---
 
-# 4️⃣ 🎯 Real-Time Streaming Pipeline – Annonces Marocaines
+## 4️⃣ 🎯 Real-Time Streaming Pipeline – Annonces Marocaines
 
-## 📌 Description
+**Contexte & Problème** : Agréger en temps réel des annonces de plateformes marocaines (Avito, MarocAnnonces) et permettre un filtrage interactif par budget, catégorie et ville.
 
-Application de collecte et traitement d’annonces en temps réel provenant de plusieurs plateformes marocaines :
+**Architecture** : Scraping Python → Apache Kafka → Apache Spark Streaming → MySQL → Interface Streamlit.
 
-* Avito
-* MarocAnnonces
-
-Les utilisateurs peuvent filtrer les annonces selon :
-
-* le budget,
-* la catégorie,
-* la ville,
-
-via une interface Streamlit interactive.
-
----
-
-## 🛠️ Stack Technologique
-
-| Composant         | Détails                  |
-| ----------------- | ------------------------ |
-| Langage           | Python 3.9+              |
-| Message Broker    | Apache Kafka             |
-| Stream Processing | Apache Spark 3.5         |
-| Base de données   | MySQL 8                  |
-| Scraping          | Requests + BeautifulSoup |
-| Frontend          | Streamlit                |
-| Environnement     | WSL Ubuntu               |
-| Containerisation  | Docker                   |
-
----
-
-## 🖼️ Architecture
+**Résultats** : Flux d'annonces en temps réel, interface utilisateur interactive, déployé sous Docker sur WSL Ubuntu.
 
 ![streaming](./images/streaming.png)
 
@@ -330,7 +154,7 @@ via une interface Streamlit interactive.
 
 ### ENSA Berrechid – Cycle Ingénieur
 
-**Systèmes d’Information & Big Data** | 2022 – 2027
+**Systèmes d'Information & Big Data** | 2022 – 2027
 
 ---
 
