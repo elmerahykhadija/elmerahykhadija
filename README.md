@@ -24,7 +24,6 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 -  Conception d’un système multi-agents(5 agents IA)dédiéàl’automatisation de l’ingestion et du requêtage de données complexes
 - Développement et orchestration d’agents intelligents spécialisés, permettant de traduire des requêtes textuelles utilisateurs en
 requêtes techniques de bases de données (réduction du temps de traitement de 70%).
--
 - **Technologies** : Python, MySQL, LLMs (GPT 4.o), Agno Framework, Power BI
 
 ---
