@@ -1,9 +1,13 @@
 # 📊 Portfolio - Data Engineering & AI
 
-Bienvenue dans mon portfolio ! Découvrez mes projets, compétences et réalisations dans le domaine du Data Engineering, Cloud Computing et Intelligence Artificielle.
-[![Mon Portfolio](https://img.shields.io/badge/Mon%20Portfolio-1DA1F2?style=for-the-badge&logo=internetarchive&logoColor=white)](https://elmerahykhadija.github.io/portfolio/)
-[![Profil LinkedIn](https://img.shields.io/badge/Me%20contacter%20sur%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-el-merahy)
+Bienvenue dans mon portfolio ! Découvrez mes projets, compétences et réalisations dans les domaines du **Data Engineering**, **Cloud Computing** et de l'**Intelligence Artificielle**.
+
+## 📫 Me contacter
+
+[![Mon Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://elmerahykhadija.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-el-merahy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmerahykhadija700@gmail.com)
+
 ---
 
 ## 👋 Me Présenter
