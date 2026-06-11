@@ -1,7 +1,9 @@
 # 📊 Portfolio - Data Engineering & AI
 
 Bienvenue dans mon portfolio ! Découvrez mes projets, compétences et réalisations dans le domaine du Data Engineering, Cloud Computing et Intelligence Artificielle.
-
+[![Mon Portfolio](https://img.shields.io/badge/Mon%20Portfolio-1DA1F2?style=for-the-badge&logo=internetarchive&logoColor=white)](https://elmerahykhadija.github.io/portfolio/)
+[![Profil LinkedIn](https://img.shields.io/badge/Me%20contacter%20sur%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-el-merahy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmerahykhadija700@gmail.com)
 ---
 
 ## 👋 Me Présenter
@@ -40,31 +42,35 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=webscraper&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
 ![Great Expectations](https://img.shields.io/badge/Great%20Expectations-5A2CA0?style=for-the-badge)
-
+![DiCE](https://img.shields.io/badge/DiCE-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ---
 
 ### ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ### 🗄️ Bases de Données
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HBase](https://img.shields.io/badge/HBase-D22128?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle%20DB%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 ---
 
@@ -76,8 +82,7 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ---
 
@@ -88,14 +93,17 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 ![Evidently AI](https://img.shields.io/badge/Evidently%20AI-6C63FF?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge)
-
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Chatbot RAG](https://img.shields.io/badge/Chatbot%20RAG-0891B2?style=for-the-badge&logo=retool&logoColor=white)
 ---
 
 ### 📊 Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge)
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-00B4D8?style=for-the-badge&logo=plotly&logoColor=white)
+![Modélisation](https://img.shields.io/badge/Modélisation-3B82F6?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ---
 
 # 🚀 Mes Projets
@@ -168,6 +176,6 @@ Passionné par le **Data Engineering**, le **Cloud Computing** et l'**IA**, j'ai
 
 # 🌍 Langues
 
-* 🇬🇧 English : B2
-* 🇫🇷 Français : B2
-* 🇸🇦 Arabe : Natif
+*  English : B2
+*  Français : B2
+*  Arabe : Natif
