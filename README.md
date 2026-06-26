@@ -1,4 +1,4 @@
-# 📊 Portfolio - Data Engineering & AI
+# 📊 Portfolio - Data & AI Engineer
 
 Bienvenue dans mon portfolio ! Découvrez mes projets, compétences et réalisations dans les domaines du **Data Engineering**, **Cloud Computing** et de l'**Intelligence Artificielle**.
 
