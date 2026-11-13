@@ -41,6 +41,9 @@ Passionnée par le cycle de vie complet de la donnée, je conçois et déploie d
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-0B3D91?style=for-the-badge&logo=apacheiceberg&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop%20HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
 ![Great Expectations](https://img.shields.io/badge/Great%20Expectations-5A2CA0?style=for-the-badge)
@@ -53,6 +56,12 @@ Passionnée par le cycle de vie complet de la donnée, je conçois et déploie d
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
 ![LLMs & RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-AI-blueviolet?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![CRAG](https://img.shields.io/badge/CRAG-7B68EE?style=for-the-badge)
+![Self--RAG](https://img.shields.io/badge/Self--RAG-9370DB?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS%20(S3%2FEC2)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -60,6 +69,8 @@ Passionnée par le cycle de vie complet de la donnée, je conçois et déploie d
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Bases de Données & Data Stores
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
